@@ -48,6 +48,8 @@
 #include "script/scriptIdBase.hpp"
 #include "script/scrNativeHandler.hpp"
 #include "script/scrProgram.hpp"
+#include "script/scrProgramTable.hpp"
+#include "script/scrProgramTableEntry.hpp"
 #include "script/scrThread.hpp"
 #include "script/scrThreadContext.hpp"
 #include "script/scrVector.hpp"
