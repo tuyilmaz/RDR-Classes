@@ -34,6 +34,7 @@
 #include "player/CPlayerInfo.hpp"
 #include "ped/CPed.hpp"
 #include "rage/atArray.hpp"
+#include "rage/atMap.hpp"
 #include "rage/atPlayerBits.hpp"
 #include "rage/datBitBuffer.hpp"
 #include "rage/fwBasePool.hpp"
